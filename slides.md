@@ -158,4 +158,4 @@ I really like netlify over AWS but it really comes down to things like domain ma
 - can commit our assets directly and have them automagically be put into a high performance CDN, cache control is amazing
 - netlify will easily have all assets globally distributed (not 100% how sure this works with AWS)
 
-## this dooes not need to be deicded now but is a big decision
+## this does not need to be deicded now but is a big decision

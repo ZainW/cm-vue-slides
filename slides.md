@@ -31,7 +31,7 @@ Table of contents
 
 ---
 
-# TS
+# [TS](https://www.typescriptlang.org/)
 
 <br>
 
@@ -46,7 +46,7 @@ Table of contents
 
 ---
 
-# TS
+# [TS](https://www.typescriptlang.org/)
 
 <br>
 
@@ -60,7 +60,7 @@ Table of contents
 
 ---
 
-# TS
+# [TS](https://www.typescriptlang.org/)
 
 <br>
 
@@ -76,7 +76,7 @@ we should circle back to it being a possibility depending on how things go with 
 
 ---
 
-# Vue 3
+# [Vue 3](https://v3.vuejs.org/)
 
 - it's the newest version of Vue
 - v3.2 has been released and is even faster, stable and easier to work with the v3
@@ -91,7 +91,7 @@ Nothing much to say here, I think it is fairly straight forward at this point to
 
 ---
 
-# Why Vite over Vue-cli
+# Why [Vite](https://vitejs.dev/) over [Vue-cli](https://cli.vuejs.org/)
 
 - blazing fast as it is built on esbuild whereas Vue-cli is built using webpack
 - uses more modern browser ways of loading/importing/building
@@ -100,7 +100,7 @@ Nothing much to say here, I think it is fairly straight forward at this point to
 
 ---
 
-# Why Vue CLI over Vite
+# Why [Vue-cli](https://cli.vuejs.org/) over [Vite](https://vitejs.dev/)
 
 - More Mature than Vite, which is fairly new
 - Has a variety of plugins which make it extensable which are easily installed
@@ -109,7 +109,7 @@ Nothing much to say here, I think it is fairly straight forward at this point to
 
 ---
 
-# Vite vs Vue CLI
+# [Vite](https://vitejs.dev/) vs [Vue-cli](https://cli.vuejs.org/)
 
 **Conclusion**
 
@@ -121,7 +121,7 @@ I want to keep things as flexible as possible starting out so we can learn what 
 
 ---
 
-# Why Tailwindcss over Bootstrap
+# Why [Tailwindcss](https://tailwindcss.com/) over [Bootstrap](https://getbootstrap.com/)
 
 - utility based api
 - provides tools to create what we want not what the framework wants
@@ -133,7 +133,7 @@ I want to keep things as flexible as possible starting out so we can learn what 
 
 ---
 
-# scss vs css
+# [SCSS](https://sass-lang.com/) vs [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 - the differences between the 2 are so small at this point that the only real difference is that you can do nested state css in SCSS
 - css has variables
@@ -145,7 +145,7 @@ Hard to see the point in SCSS these days but we can if it makes people more comf
 
 ---
 
-# Netlify vs AWS Amplify
+# [Netlify](https://www.netlify.com/) vs [AWS Amplify](https://aws.amazon.com/amplify/)
 
 I really like netlify over AWS but it really comes down to things like domain management, pricing and possibly intgrating with other AWS based stuff
 
